@@ -1,4 +1,4 @@
-package com.example.android_app;
+package com.mthamil.android_app;
 
 import android.os.Bundle;
 import android.app.Activity;
